@@ -1,0 +1,8 @@
+C:\ActioNet\PDLibraryImport\obj\x86\Debug\PDLibraryImport.csprojResolveAssemblyReference.cache
+C:\ActioNet\PDLibraryImport\obj\x86\Debug\PDLibraryImport.Form1.resources
+C:\ActioNet\PDLibraryImport\obj\x86\Debug\PDLibraryImport.Properties.Resources.resources
+C:\ActioNet\PDLibraryImport\obj\x86\Debug\PDLibraryImport.csproj.GenerateResource.Cache
+C:\ActioNet\PDLibraryImport\bin\Debug\PDLibraryImport.exe
+C:\ActioNet\PDLibraryImport\bin\Debug\PDLibraryImport.pdb
+C:\ActioNet\PDLibraryImport\obj\x86\Debug\PDLibraryImport.exe
+C:\ActioNet\PDLibraryImport\obj\x86\Debug\PDLibraryImport.pdb

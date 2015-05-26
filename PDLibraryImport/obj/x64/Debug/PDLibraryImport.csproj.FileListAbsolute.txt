@@ -1,0 +1,7 @@
+C:\ActioNet\PDLibraryImport\bin\x64\Debug\PDLibraryImport.exe
+C:\ActioNet\PDLibraryImport\bin\x64\Debug\PDLibraryImport.pdb
+C:\ActioNet\PDLibraryImport\obj\x64\Debug\PDLibraryImport.PDLibraryImport.resources
+C:\ActioNet\PDLibraryImport\obj\x64\Debug\PDLibraryImport.Properties.Resources.resources
+C:\ActioNet\PDLibraryImport\obj\x64\Debug\PDLibraryImport.csproj.GenerateResource.Cache
+C:\ActioNet\PDLibraryImport\obj\x64\Debug\PDLibraryImport.exe
+C:\ActioNet\PDLibraryImport\obj\x64\Debug\PDLibraryImport.pdb
